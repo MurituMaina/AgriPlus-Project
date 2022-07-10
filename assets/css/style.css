@@ -135,7 +135,6 @@ footer {
 #apps{
     display: grid;
     padding: 5px;
-    background-color:tomato ;
     height: 50px;
     width:5% ;
     color: yellow;
